@@ -1,0 +1,22 @@
+{
+  "checked": "2026-10-25",
+  "period": "November 2026",
+  "nights": 9,
+  "adults": 2,
+  "hotel": "Cinnamon Velifushi Maldives 5*",
+  "meal": "All Inclusive",
+  "departure": "Moscow",
+  "advertised_per_person": 378006,
+  "advertised_for_two": 756012,
+  "budget_assumption": 800000,
+  "eur_rub": 90.2429,
+  "exchange_date": "2026-10-24",
+  "status": "Indexed offer only; live total and specific flight / transfer / fees not verified",
+  "source": "https://www.tez-tour.travel/maldives/tury/hotel_5/month_november/nights_9/",
+  "fx_source": "https://www.cbr.ru/currency_base/daily/?UniDbQuery.Posted=True&UniDbQuery.To=24.10.2026",
+  "photo": {
+    "page": "https://www.neoscapesmaldives.com/resort/cinnamon-velifushi-maldives/",
+    "asset": "https://www.neoscapesmaldives.com/wp-content/uploads/Aerial-View-Cinnamon-Velifushi-Maldives-18.jpg",
+    "embedded": true
+  }
+}

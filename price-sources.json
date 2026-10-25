@@ -1,0 +1,146 @@
+{
+  "checked": "2026-10-25",
+  "note": "Prices follow the selected dropdown variant; complete evidence is in catalog-sources.json. InStock and pre-order M variants are included in the default filter.",
+  "variants": [
+    {
+      "id": "4321-powder-coat-black",
+      "name": "Torque AL 7 · Powder Coat Black",
+      "amount": 2499.0,
+      "vat": 19,
+      "old": null,
+      "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-7/4321.html?dwvar_4321_pv_rahmenfarbe=M185_P01&dwvar_4321_pv_rahmengroesse=M",
+      "status": "M: нет в наличии",
+      "orderable": false
+    },
+    {
+      "id": "4321-teal-fade",
+      "name": "Torque AL 7 · Teal Fade",
+      "amount": 2499.0,
+      "vat": 19,
+      "old": null,
+      "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-7/4321.html?dwvar_4321_pv_rahmenfarbe=M185_P02&dwvar_4321_pv_rahmengroesse=M",
+      "status": "M: нет в наличии",
+      "orderable": false
+    },
+    {
+      "id": "4323-powder-coat-black",
+      "name": "Torque AL 8 · Powder Coat Black",
+      "amount": 2999.0,
+      "vat": 19,
+      "old": null,
+      "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-8/4323.html?dwvar_4323_pv_rahmenfarbe=M185_P01&dwvar_4323_pv_rahmengroesse=M",
+      "status": "M: нет в наличии",
+      "orderable": false
+    },
+    {
+      "id": "4323-teal-fade",
+      "name": "Torque AL 8 · Teal Fade",
+      "amount": 2999.0,
+      "vat": 19,
+      "old": null,
+      "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-8/4323.html?dwvar_4323_pv_rahmenfarbe=M185_P02&dwvar_4323_pv_rahmengroesse=M",
+      "status": "M: нет в наличии",
+      "orderable": false
+    },
+    {
+      "id": "4322-powder-coat-black",
+      "name": "Torque AL DH · Powder Coat Black",
+      "amount": 2999.0,
+      "vat": 19,
+      "old": null,
+      "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-dh/4322.html?dwvar_4322_pv_rahmenfarbe=M185_P01&dwvar_4322_pv_rahmengroesse=M",
+      "status": "M: в наличии",
+      "orderable": true
+    },
+    {
+      "id": "4324-raw-brushed",
+      "name": "Torque AL 9 · Raw Brushed",
+      "amount": 3999.0,
+      "vat": 19,
+      "old": null,
+      "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-9/4324.html?dwvar_4324_pv_rahmenfarbe=M185_P03&dwvar_4324_pv_rahmengroesse=M",
+      "status": "M: нет в наличии",
+      "orderable": false
+    },
+    {
+      "id": "BT6MSXV5EEU1",
+      "name": "META SX V5 ESSENTIAL PURE WHITE 2027",
+      "amount": 4083.33,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/enduro-mountain-bike-commencal-meta-sx-v5-essential-pure-white/BT6MSXV5EEU1M.html?lang=en_FR",
+      "status": "M: в наличии",
+      "orderable": true
+    },
+    {
+      "id": "BT6MSXV5SGEU1",
+      "name": "META SX V5 SIGNATURE PURE BLACK 2027",
+      "amount": 5583.33,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/commencal-meta-sx-v5-signature-pure-black-enduro-full-suspension-mtb/BT6MSXV5SGEU1M.html?lang=en_FR",
+      "status": "M: в наличии",
+      "orderable": true
+    },
+    {
+      "id": "BT7CLAV3PKEU1",
+      "name": "CLASH V3 PARK 2027",
+      "amount": 3500,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/commencal-clash-v3-park-long-travel-enduro-bike/BT7CLAV3PKEU1M.html?lang=en_FR",
+      "status": "M: предзаказ · Sun Jan 31 2027",
+      "orderable": true
+    },
+    {
+      "id": "BT7CLAV3RSEU1",
+      "name": "CLASH V3 ROCKSHOX PURE WHITE 2027",
+      "amount": 4333.33,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/commencal-clash-v3-rockshox-pure-white-enduro-mountain-bike/BT7CLAV3RSEU1M.html?lang=en_FR",
+      "status": "M: предзаказ · Fri Jan 29 2027",
+      "orderable": true
+    },
+    {
+      "id": "BT7CLAV3SGEU1",
+      "name": "CLASH V3 SIGNATURE PURE BLACK 2027",
+      "amount": 4916.66,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/commencal-clash-v3-signature-pure-black-long-travel-freeride-enduro/BT7CLAV3SGEU1M.html?lang=en_FR",
+      "status": "M: в наличии",
+      "orderable": true
+    },
+    {
+      "id": "BT7SUPV52RSEU1",
+      "name": "SUPREME DH V5.2 ROCKSHOX PURE WHITE 2027",
+      "amount": 6000,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/commencal-supreme-dh-v5-2-rockshox-pure-white-downhill-bike/BT7SUPV52RSEU1M.html?lang=en_FR",
+      "status": "M: в наличии",
+      "orderable": true
+    },
+    {
+      "id": "BT7SUPV52SGEU1",
+      "name": "SUPREME DH V5.2 SIGNATURE PURE BLACK 2027",
+      "amount": 6833.33,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/commencal-supreme-dh-v5-2-pure-black-downhill-bike/BT7SUPV52SGEU1M.html?lang=en_FR",
+      "status": "M: в наличии",
+      "orderable": true
+    },
+    {
+      "id": "BT7SUPV52TCAEU1",
+      "name": "SUPREME DH V5.2 TEAM REPLICA ADDICTION WHITE 2027",
+      "amount": 8291.66,
+      "vat": 0,
+      "old": null,
+      "url": "https://www.commencal.com/en/downhill-mountain-bike-commencal-supreme-dh-v5-2-team-replica/BT7SUPV52TCAEU1M.html?lang=en_FR",
+      "status": "M: в наличии",
+      "orderable": true
+    }
+  ]
+}

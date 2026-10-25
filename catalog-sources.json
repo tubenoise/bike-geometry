@@ -1,0 +1,960 @@
+{
+  "checked": "2026-10-25",
+  "scope": "Torque AL, META SX V5, CLASH V3, Supreme DH V5.2; M; Canyon DE and Commencal EU; frames, electric bikes, XS-only and UK brake variants excluded",
+  "variants": {
+    "torque": [
+      {
+        "id": "4321-powder-coat-black",
+        "name": "Torque AL 7 · Powder Coat Black",
+        "trim": "Torque AL 7",
+        "year": "2027 · по каталогу Canyon",
+        "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-7/4321.html?dwvar_4321_pv_rahmenfarbe=M185_P01&dwvar_4321_pv_rahmengroesse=M",
+        "imageUrl": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1779784350/2027_FULL_torque_al-7_4321_M185_P01_yexis7",
+        "amount": 2499.0,
+        "vat": 19,
+        "old": null,
+        "orderable": false,
+        "stock": "out",
+        "status": "M: нет в наличии",
+        "region": "Canyon Германия",
+        "geometry": {
+          "st": 405,
+          "tt": 601,
+          "ht": 110,
+          "ha": 63.5,
+          "sa": 78.5,
+          "cs": 430,
+          "stack": 643,
+          "reach": 470,
+          "stand": 761,
+          "wb": 1254.0,
+          "fork": null,
+          "offset": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Offset: 12 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "RockShox Vivid Air Base"
+          ],
+          [
+            "Вилка",
+            "RockShox ZEB Base"
+          ],
+          [
+            "Переключатель",
+            "Shimano Deore M6100, 12-Speed"
+          ],
+          [
+            "Переднее колесо",
+            "Sunringle 309 Enduro Comp"
+          ],
+          [
+            "Заднее колесо",
+            "Sunringle 307 Enduro Comp"
+          ],
+          [
+            "Подседельный штырь",
+            "Canyon SP0081"
+          ]
+        ],
+        "geometryNote": "Геометрия из официальных данных выбранного варианта M; положение регулировок — опубликованное производителем.",
+        "notes": "The best value in Gravity riding. No corners cut. Smooth RockShox ZEB fork and Vivid Air shock. Consistent, 4-piston Shimano SLX brakes. Workhorse-grade Shimano Deore 12s drivetrain."
+      },
+      {
+        "id": "4321-teal-fade",
+        "name": "Torque AL 7 · Teal Fade",
+        "trim": "Torque AL 7",
+        "year": "2027 · по каталогу Canyon",
+        "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-7/4321.html?dwvar_4321_pv_rahmenfarbe=M185_P02&dwvar_4321_pv_rahmengroesse=M",
+        "imageUrl": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1779784350/2027_FULL_torque_al-7_4321_M185_P02_xaqtuf",
+        "amount": 2499.0,
+        "vat": 19,
+        "old": null,
+        "orderable": false,
+        "stock": "out",
+        "status": "M: нет в наличии",
+        "region": "Canyon Германия",
+        "geometry": {
+          "st": 405,
+          "tt": 601,
+          "ht": 110,
+          "ha": 63.5,
+          "sa": 78.5,
+          "cs": 430,
+          "stack": 643,
+          "reach": 470,
+          "stand": 761,
+          "wb": 1254.0,
+          "fork": null,
+          "offset": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Offset: 12 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "RockShox Vivid Air Base"
+          ],
+          [
+            "Вилка",
+            "RockShox ZEB Base"
+          ],
+          [
+            "Переключатель",
+            "Shimano Deore M6100, 12-Speed"
+          ],
+          [
+            "Переднее колесо",
+            "Sunringle 309 Enduro Comp"
+          ],
+          [
+            "Заднее колесо",
+            "Sunringle 307 Enduro Comp"
+          ],
+          [
+            "Подседельный штырь",
+            "Canyon SP0081"
+          ]
+        ],
+        "geometryNote": "Геометрия из официальных данных выбранного варианта M; положение регулировок — опубликованное производителем.",
+        "notes": "The best value in Gravity riding. No corners cut. Smooth RockShox ZEB fork and Vivid Air shock. Consistent, 4-piston Shimano SLX brakes. Workhorse-grade Shimano Deore 12s drivetrain."
+      },
+      {
+        "id": "4323-powder-coat-black",
+        "name": "Torque AL 8 · Powder Coat Black",
+        "trim": "Torque AL 8",
+        "year": "2027 · по каталогу Canyon",
+        "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-8/4323.html?dwvar_4323_pv_rahmenfarbe=M185_P01&dwvar_4323_pv_rahmengroesse=M",
+        "imageUrl": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1779784349/2027_FULL_torque_al-8_4323_M185_P01_cuzv7t",
+        "amount": 2999.0,
+        "vat": 19,
+        "old": null,
+        "orderable": false,
+        "stock": "out",
+        "status": "M: нет в наличии",
+        "region": "Canyon Германия",
+        "geometry": {
+          "st": 405,
+          "tt": 601,
+          "ht": 110,
+          "ha": 63.5,
+          "sa": 78.5,
+          "cs": 430,
+          "stack": 643,
+          "reach": 470,
+          "stand": 761,
+          "wb": 1254.0,
+          "fork": null,
+          "offset": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Offset: 12 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "RockShox Vivid Select+"
+          ],
+          [
+            "Вилка",
+            "RockShox ZEB Select +"
+          ],
+          [
+            "Переключатель",
+            "SRAM Eagle 70"
+          ],
+          [
+            "Переднее колесо",
+            "DT Swiss F 1900 Classic"
+          ],
+          [
+            "Заднее колесо",
+            "DT Swiss F1900"
+          ],
+          [
+            "Подседельный штырь",
+            "Canyon SP0081"
+          ]
+        ],
+        "geometryNote": "Геометрия из официальных данных выбранного варианта M; положение регулировок — опубликованное производителем.",
+        "notes": "Full SRAM. Full Gas. Smooth RockShox ZEB Select+ and Vivid Air Select+. Legendarily powerful SRAM Maven brakes. Quick-shifting Eagle 70 12-speed drivetrain. Burly DT Swiss F1900 wheelsets shrugs off abuse."
+      },
+      {
+        "id": "4323-teal-fade",
+        "name": "Torque AL 8 · Teal Fade",
+        "trim": "Torque AL 8",
+        "year": "2027 · по каталогу Canyon",
+        "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-8/4323.html?dwvar_4323_pv_rahmenfarbe=M185_P02&dwvar_4323_pv_rahmengroesse=M",
+        "imageUrl": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1779784351/2027_FULL_torque_al-8_4323_M185_P02_pqziz8",
+        "amount": 2999.0,
+        "vat": 19,
+        "old": null,
+        "orderable": false,
+        "stock": "out",
+        "status": "M: нет в наличии",
+        "region": "Canyon Германия",
+        "geometry": {
+          "st": 405,
+          "tt": 601,
+          "ht": 110,
+          "ha": 63.5,
+          "sa": 78.5,
+          "cs": 430,
+          "stack": 643,
+          "reach": 470,
+          "stand": 761,
+          "wb": 1254.0,
+          "fork": null,
+          "offset": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Offset: 12 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "RockShox Vivid Select+"
+          ],
+          [
+            "Вилка",
+            "RockShox ZEB Select +"
+          ],
+          [
+            "Переключатель",
+            "SRAM Eagle 70"
+          ],
+          [
+            "Переднее колесо",
+            "DT Swiss F 1900 Classic"
+          ],
+          [
+            "Заднее колесо",
+            "DT Swiss F1900"
+          ],
+          [
+            "Подседельный штырь",
+            "Canyon SP0081"
+          ]
+        ],
+        "geometryNote": "Геометрия из официальных данных выбранного варианта M; положение регулировок — опубликованное производителем.",
+        "notes": "Full SRAM. Full Gas. Smooth RockShox ZEB Select+ and Vivid Air Select+. Legendarily powerful SRAM Maven brakes. Quick-shifting Eagle 70 12-speed drivetrain. Burly DT Swiss F1900 wheelsets shrugs off abuse."
+      },
+      {
+        "id": "4322-powder-coat-black",
+        "name": "Torque AL DH · Powder Coat Black",
+        "trim": "Torque AL DH",
+        "year": "2027 · по каталогу Canyon",
+        "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-dh/4322.html?dwvar_4322_pv_rahmenfarbe=M185_P01&dwvar_4322_pv_rahmengroesse=M",
+        "imageUrl": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1785310946/2027_FULL_torque_al-dh_4322_M185_P01_apaccs",
+        "amount": 2999.0,
+        "vat": 19,
+        "old": null,
+        "orderable": true,
+        "stock": "in",
+        "status": "M: в наличии",
+        "region": "Canyon Германия",
+        "geometry": {
+          "st": 405,
+          "tt": 601,
+          "ht": 110,
+          "ha": 63.5,
+          "sa": 78.5,
+          "cs": 430,
+          "stack": 643,
+          "reach": 470,
+          "stand": 761,
+          "wb": 1254.0,
+          "fork": null,
+          "offset": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Offset: 12 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "RockShox Vivid Air Base"
+          ],
+          [
+            "Вилка",
+            "Rock Shox Boxxer Select"
+          ],
+          [
+            "Переключатель",
+            "SRAM GX DH 7s"
+          ],
+          [
+            "Переднее колесо",
+            "DT Swiss F1900"
+          ],
+          [
+            "Заднее колесо",
+            "DT Swiss F1900"
+          ],
+          [
+            "Подседельный штырь",
+            "G5 Seatpost"
+          ]
+        ],
+        "geometryNote": "Геометрия из официальных данных выбранного варианта M; положение регулировок — опубликованное производителем.",
+        "notes": "The park rat’s whip of choice. World Cup-proven RockShox Boxxer and Vivid Air. Legendarily powerful SRAM Maven brakes. Fuss-free Sram GX DH 7-speed drivetrain. Burly DT Swiss F1900 wheelsets shrugs off abuse."
+      },
+      {
+        "id": "4324-raw-brushed",
+        "name": "Torque AL 9 · Raw Brushed",
+        "trim": "Torque AL 9",
+        "year": "2027 · по каталогу Canyon",
+        "url": "https://www.canyon.com/en-de/mountain-bikes/enduro-bikes/torque/al/torque-al-9/4324.html?dwvar_4324_pv_rahmenfarbe=M185_P03&dwvar_4324_pv_rahmengroesse=M",
+        "imageUrl": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1779784351/2027_FULL_torque_al-9_4324_M185_P03_mmt3vz",
+        "amount": 3999.0,
+        "vat": 19,
+        "old": null,
+        "orderable": false,
+        "stock": "out",
+        "status": "M: нет в наличии",
+        "region": "Canyon Германия",
+        "geometry": {
+          "st": 405,
+          "tt": 601,
+          "ht": 110,
+          "ha": 63.5,
+          "sa": 78.5,
+          "cs": 430,
+          "stack": 643,
+          "reach": 470,
+          "stand": 761,
+          "wb": 1254.0,
+          "fork": null,
+          "offset": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Offset: 12 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "FOX Float X2 Factory"
+          ],
+          [
+            "Вилка",
+            "FOX 38 Factory Grip X2"
+          ],
+          [
+            "Переключатель",
+            "SRAM Eagle 90 Transmission"
+          ],
+          [
+            "Переднее колесо",
+            "DT Swiss EX1700"
+          ],
+          [
+            "Заднее колесо",
+            "DT Swiss EX1700"
+          ],
+          [
+            "Подседельный штырь",
+            "Canyon SP0081"
+          ]
+        ],
+        "geometryNote": "Геометрия из официальных данных выбранного варианта M; положение регулировок — опубликованное производителем.",
+        "notes": "Best of the best. Full send, fully equipped. Pro-calibre. Fox Factory 38 fork and X2 shock. Maven Silver brakes deliver peak power/modulation. Blazing-fast shifts courtesy of SRAM Eagle 90. DT Swiss EX1700 roll fast and take the big hits."
+      }
+    ],
+    "meta": [
+      {
+        "id": "BT6MSXV5EEU1",
+        "name": "META SX V5 ESSENTIAL PURE WHITE 2027",
+        "trim": "META SX V5 ESSENTIAL PURE WHITE 2027",
+        "year": "2027 · V5",
+        "url": "https://www.commencal.com/en/enduro-mountain-bike-commencal-meta-sx-v5-essential-pure-white/BT6MSXV5EEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dw138fa31f/images/BT6MSXV5EEU1.jpg",
+        "amount": 4083.33,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "in",
+        "status": "M: в наличии",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 420.0,
+          "sa": 77.5,
+          "ha": 64.0,
+          "ht": 120.0,
+          "wb": 1253.0,
+          "tt": 600.6,
+          "cs": 442.0,
+          "fork": 586.0,
+          "reach": 460.0,
+          "stack": 638.3,
+          "offset": null,
+          "stand": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Height: 4 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "FOX Float X Performance 2027 230 x 65 mm, 2-pos lever, rebound, 0.6ci spacers"
+          ],
+          [
+            "Вилка",
+            "FOX 38 Performance 2027, 170 mm travel 29\", Fit Grip damper, 3 positions, rebound, Boost (15 x 110 mm), 44 mm offset, 2 Tokens"
+          ],
+          [
+            "Тормоза",
+            "TRP EVO Expert, 4 pistons Chainring : TRP RS06E 203 mm, 6 holes"
+          ],
+          [
+            "Переключатель",
+            "SRAM Eagle 90 12s"
+          ],
+          [
+            "Обода",
+            "DT SWISS E 593 Rear : 27.5'', 32h, 30 mm inner width - Front : 29'', 32h, 30 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "KS Ragei 34.9 mm, travel: 150 mm on S, 170 mm on M and 190 mm on L/XL, I-Spec EV SouthPaw alloy remote"
+          ],
+          [
+            "Вес по каталогу",
+            "16,7 kg / 36.81 lb Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "165mm"
+          ]
+        ],
+        "geometryNote": "Размер M. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "In stock"
+          ],
+          "inStockDate": null
+        }
+      },
+      {
+        "id": "BT6MSXV5SGEU1",
+        "name": "META SX V5 SIGNATURE PURE BLACK 2027",
+        "trim": "META SX V5 SIGNATURE PURE BLACK 2027",
+        "year": "2027 · V5",
+        "url": "https://www.commencal.com/en/commencal-meta-sx-v5-signature-pure-black-enduro-full-suspension-mtb/BT6MSXV5SGEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dwad5e63eb/images/BT6MSXV5SGEU1.jpg",
+        "amount": 5583.33,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "in",
+        "status": "M: в наличии",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 420.0,
+          "sa": 77.5,
+          "ha": 64.0,
+          "ht": 120.0,
+          "wb": 1253.0,
+          "tt": 600.6,
+          "cs": 442.0,
+          "fork": 586.0,
+          "reach": 460.0,
+          "stack": 638.3,
+          "offset": null,
+          "stand": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Height: 4 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "FOX Float X2 Factory 230 x 65 mm, 2-pos adjustment, HSC, LSC, HSR, LSR"
+          ],
+          [
+            "Вилка",
+            "FOX 38 Factory 2027, 170 mm travel 29'', Grip X2, HSC, LSC, HSR, LSR, Boost (15 x 110), 44 mm offset, 2 Tokens"
+          ],
+          [
+            "Тормоза",
+            "SHIMANO XT, 4 pistons, resin pads Rotors : SHIMANO MT905 203 mm, 6-bolts"
+          ],
+          [
+            "Переключатель",
+            "SRAM Eagle 90 12s"
+          ],
+          [
+            "Обода",
+            "DT SWISS EX1700 Rear : 27.5'', 32h, 28 mm inner width - Front : 29'', 32h, 28 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "ONE UP V3 34.9 mm, travel: 150 mm on S, 180 mm on M and 210 mm on L/XL, I-Spec EV SouthPaw alloy remote"
+          ],
+          [
+            "Вес по каталогу",
+            "16,9 kg / 37.25 lb Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "165mm"
+          ]
+        ],
+        "geometryNote": "Размер M. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "In stock"
+          ],
+          "inStockDate": null
+        }
+      }
+    ],
+    "clash": [
+      {
+        "id": "BT7CLAV3PKEU1",
+        "name": "CLASH V3 PARK 2027",
+        "trim": "CLASH V3 PARK 2027",
+        "year": "2027 · V3",
+        "url": "https://www.commencal.com/en/commencal-clash-v3-park-long-travel-enduro-bike/BT7CLAV3PKEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dwf33b2164/images/BT7CLAV3PKEU1.jpg",
+        "amount": 3500,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "pre",
+        "status": "M: предзаказ · Sun Jan 31 2027",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 400.0,
+          "sa": 77.5,
+          "ha": 63.8,
+          "ht": 120.0,
+          "wb": 1233.0,
+          "tt": 593.0,
+          "cs": 434.0,
+          "fork": 577.0,
+          "offset": 44.0,
+          "reach": 455.0,
+          "stack": 623.0,
+          "stand": null
+        },
+        "wheels": "27,5″ / 27,5″",
+        "bb": "Bottom Bracket Height: -10 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "FOX Float X Performance 230 x 65 mm, 2-pos lever, rebound, LSC, 0,0ci spacers"
+          ],
+          [
+            "Вилка",
+            "FOX 38 Performance, 180 mm travel 27.5'', Grip damper, 3 positions, rebound, Boost (15 x 110 mm), 44 mm offset, 1 volume spacer"
+          ],
+          [
+            "Тормоза",
+            "TRP EVO Expert, 4 pistons Rotors : TRP R203S06E, 203 mm, 6-bolts"
+          ],
+          [
+            "Переключатель",
+            "SHIMANO Deore M7200, 12s"
+          ],
+          [
+            "Обода",
+            "DT SWISS E 593 27.5'', 32h, 30 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "KS 900i 2.0 150 mm on S, 180 mm on M, 210 mm on L"
+          ],
+          [
+            "Вес по каталогу",
+            "17,5 kg / 38,58 lbs Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "170mm"
+          ]
+        ],
+        "geometryNote": "Размер M. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "Pre-order"
+          ],
+          "inStockDate": "Sun Jan 31 2027"
+        }
+      },
+      {
+        "id": "BT7CLAV3RSEU1",
+        "name": "CLASH V3 ROCKSHOX PURE WHITE 2027",
+        "trim": "CLASH V3 ROCKSHOX PURE WHITE 2027",
+        "year": "2027 · V3",
+        "url": "https://www.commencal.com/en/commencal-clash-v3-rockshox-pure-white-enduro-mountain-bike/BT7CLAV3RSEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dwcb04cefe/images/BT7CLAV3RSEU1.jpg",
+        "amount": 4333.33,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "pre",
+        "status": "M: предзаказ · Fri Jan 29 2027",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 400.0,
+          "sa": 77.5,
+          "ha": 63.8,
+          "ht": 120.0,
+          "wb": 1233.0,
+          "tt": 593.0,
+          "cs": 434.0,
+          "fork": 577.0,
+          "offset": 44.0,
+          "reach": 455.0,
+          "stack": 623.0,
+          "stand": null
+        },
+        "wheels": "27,5″ / 27,5″",
+        "bb": "Bottom Bracket Height: -10 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "ROCKSHOX Super Deluxe Select 230 x 65 mm, Pos adjustment, Rebound"
+          ],
+          [
+            "Вилка",
+            "ROCKSHOX Zeb Ultimate, 180 mm 27.5'', Charger 3.2, HSC, LSC, HSR, LSR, Boost (15 x 110), 0 Token"
+          ],
+          [
+            "Тормоза",
+            "SRAM Maven Base, 4 pistons, sintered pads Rotors : SRAM Centerline 200 mm, 6-bolts"
+          ],
+          [
+            "Переключатель",
+            "SRAM EAGLE 90 12s"
+          ],
+          [
+            "Обода",
+            "DT SWISS F1900 Classic 27.5'', 32h, 30 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "KS Lev Integra 34.9 mm, 150 mm on S, 175 mm on M, 200 mm on L"
+          ],
+          [
+            "Вес по каталогу",
+            "- kg / - lbs Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "170mm"
+          ]
+        ],
+        "geometryNote": "Размер M. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "Pre-order"
+          ],
+          "inStockDate": "Fri Jan 29 2027"
+        }
+      },
+      {
+        "id": "BT7CLAV3SGEU1",
+        "name": "CLASH V3 SIGNATURE PURE BLACK 2027",
+        "trim": "CLASH V3 SIGNATURE PURE BLACK 2027",
+        "year": "2027 · V3",
+        "url": "https://www.commencal.com/en/commencal-clash-v3-signature-pure-black-long-travel-freeride-enduro/BT7CLAV3SGEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dw78e45415/images/BT7CLAV3SGEU1.jpg",
+        "amount": 4916.66,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "in",
+        "status": "M: в наличии",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 400.0,
+          "sa": 77.5,
+          "ha": 63.8,
+          "ht": 120.0,
+          "wb": 1233.0,
+          "tt": 593.0,
+          "cs": 434.0,
+          "fork": 577.0,
+          "offset": 44.0,
+          "reach": 455.0,
+          "stack": 623.0,
+          "stand": null
+        },
+        "wheels": "27,5″ / 27,5″",
+        "bb": "Bottom Bracket Height: -10 мм",
+        "specs": [
+          [
+            "Амортизатор",
+            "FOX Float X2 Factory 230 x 65 mm, 2-pos adjustment, HSC, LSC, HSR, LSR"
+          ],
+          [
+            "Вилка",
+            "FOX 38 Factory, 180 mm 27.5'', Grip X2, HSC, LSC, HSR, LSR, Boost (15 x 110), 2 Tokens"
+          ],
+          [
+            "Тормоза",
+            "SHIMANO XT, 4 pistons, resin pads Rotors : SHIMANO RT 6B750 200 mm, 6-bolts"
+          ],
+          [
+            "Переключатель",
+            "SHIMANO XT 12s"
+          ],
+          [
+            "Обода",
+            "DT SWISS EX1700 Classic 27.5'', 32h, 30 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "ONE UP Dropper V3 34.9 mm, 150 mm on S, 180 mm on M, 210 mm on L"
+          ],
+          [
+            "Вес по каталогу",
+            "17,5 kg / 38.58 lb Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "170mm"
+          ]
+        ],
+        "geometryNote": "Размер M. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "In stock"
+          ],
+          "inStockDate": null
+        }
+      }
+    ],
+    "supreme": [
+      {
+        "id": "BT7SUPV52RSEU1",
+        "name": "SUPREME DH V5.2 ROCKSHOX PURE WHITE 2027",
+        "trim": "SUPREME DH V5.2 ROCKSHOX PURE WHITE 2027",
+        "year": "2027 · Low",
+        "url": "https://www.commencal.com/en/commencal-supreme-dh-v5-2-rockshox-pure-white-downhill-bike/BT7SUPV52RSEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dw477ead16/images/BT7SUPV52RSEU1.jpg",
+        "amount": 6000,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "in",
+        "status": "M: в наличии",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 370.0,
+          "sa": 75.7,
+          "ha": 63.3,
+          "ht": 112.0,
+          "wb": 1283.0,
+          "tt": 621.0,
+          "cs": 454.0,
+          "fork": 612.0,
+          "offset": 52.0,
+          "reach": 456.0,
+          "stack": 649.0,
+          "stand": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Height: 2,5 мм (Low)",
+        "specs": [
+          [
+            "Амортизатор",
+            "ROCKSHOX VIVID Ultimate DH 250 x 75 mm, RCT2 damper, HSC, LSC, rebound, Adjustable Bottom Out. Spring rates: 400 lbs on S, 450 lbs on M, 500 lbs on L, 550 lbs on XL"
+          ],
+          [
+            "Вилка",
+            "ROCKSHOX BOXXER Ultimate 29\", Charger 3.2 RC damper, Linear XL air spring, HSC, LSC, rebound, 48 mm offset, 0 Token"
+          ],
+          [
+            "Тормоза",
+            "SRAM Maven Bronze, 4 pistons, sintered pads Rotors : SRAM HS2 220 mm, 6-bolts"
+          ],
+          [
+            "Переключатель",
+            "SRAM GX DH 7s"
+          ],
+          [
+            "Обода",
+            "DT SWISS F1900 Classic Rear : 27.5'', 32h, 30 mm inner width - Front : 29'', 32h, 30 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "RIDE ALPHA 31.6 mm, 250 mm length"
+          ],
+          [
+            "Вес по каталогу",
+            "19,4 kg / 42.76 lb Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "220mm"
+          ]
+        ],
+        "geometryNote": "Размер M, Low. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "In stock"
+          ],
+          "inStockDate": null
+        }
+      },
+      {
+        "id": "BT7SUPV52SGEU1",
+        "name": "SUPREME DH V5.2 SIGNATURE PURE BLACK 2027",
+        "trim": "SUPREME DH V5.2 SIGNATURE PURE BLACK 2027",
+        "year": "2027 · Low",
+        "url": "https://www.commencal.com/en/commencal-supreme-dh-v5-2-pure-black-downhill-bike/BT7SUPV52SGEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dw3b81c078/images/BT7SUPV52SGEU1.jpg",
+        "amount": 6833.33,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "in",
+        "status": "M: в наличии",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 370.0,
+          "sa": 75.7,
+          "ha": 63.3,
+          "ht": 112.0,
+          "wb": 1283.0,
+          "tt": 621.0,
+          "cs": 454.0,
+          "fork": 612.0,
+          "offset": 52.0,
+          "reach": 456.0,
+          "stack": 649.0,
+          "stand": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Height: 2,5 мм (Low)",
+        "specs": [
+          [
+            "Амортизатор",
+            "FOX FLOAT X2 Factory 250 x 75 mm, HSC, LSC, HSR, LSR"
+          ],
+          [
+            "Вилка",
+            "FOX 40 Factory, 200 mm 29\", Grip X2, HSR, LSR, HSC, LSC, Boost 20 x 110 mm thru-axle, 52 mm offset, 2 tokens"
+          ],
+          [
+            "Тормоза",
+            "SRAM Maven Silver, 4 pistons, sintered pads Rotors : SRAM HS2 220 mm, 6-bolts"
+          ],
+          [
+            "Переключатель",
+            "SRAM GX DH 7s"
+          ],
+          [
+            "Обода",
+            "Rear : DT SWISS FR541 - Front : DT SWISS FR571 Rear : 27.5'', 32h, 30 mm inner width - Front : 29'', 32h, 30 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "RIDE ALPHA 31.6 mm, 250 mm length"
+          ],
+          [
+            "Вес по каталогу",
+            "19 kg / 41.88 lb Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "220mm"
+          ]
+        ],
+        "geometryNote": "Размер M, Low. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "In stock"
+          ],
+          "inStockDate": null
+        }
+      },
+      {
+        "id": "BT7SUPV52TCAEU1",
+        "name": "SUPREME DH V5.2 TEAM REPLICA ADDICTION WHITE 2027",
+        "trim": "SUPREME DH V5.2 TEAM REPLICA ADDICTION WHITE 2027",
+        "year": "2027 · Low",
+        "url": "https://www.commencal.com/en/downhill-mountain-bike-commencal-supreme-dh-v5-2-team-replica/BT7SUPV52TCAEU1M.html?lang=en_FR",
+        "imageUrl": "https://www.commencal.com/on/demandware.static/-/Sites-commencal-master/default/dw0438fb85/images/BT7SUPV52TCAEU1.jpg",
+        "amount": 8291.66,
+        "vat": 0,
+        "old": null,
+        "orderable": true,
+        "stock": "in",
+        "status": "M: в наличии",
+        "region": "Commencal европейский каталог",
+        "geometry": {
+          "st": 370.0,
+          "sa": 75.7,
+          "ha": 63.3,
+          "ht": 112.0,
+          "wb": 1283.0,
+          "tt": 621.0,
+          "cs": 454.0,
+          "fork": 612.0,
+          "offset": 52.0,
+          "reach": 456.0,
+          "stack": 649.0,
+          "stand": null
+        },
+        "wheels": "29″ / 27,5″",
+        "bb": "Bottom Bracket Height: 2,5 мм (Low)",
+        "specs": [
+          [
+            "Амортизатор",
+            "ROCKSHOX VIVID Air Ultimate DH 250 x 75 mm, RC2 damper, HSC, LSC, rebound, Adjustable Bottom Out"
+          ],
+          [
+            "Вилка",
+            "ROCKSHOX BOXXER Ultimate 29\", Charger 3.2 RC damper, Linear XL air spring, HSC, LSC, rebound, 48 mm offset, 0 Token"
+          ],
+          [
+            "Тормоза",
+            "SRAM Maven Ultimate, 4 pistons, sintered pads Rotors : SRAM HS2 220 mm, 6-bolts"
+          ],
+          [
+            "Переключатель",
+            "SRAM XX DH 7s, AXS"
+          ],
+          [
+            "Обода",
+            "CRANKBROTHERS DH ALLOY 2.0 Rear : 27.5'', 32h, 30 mm inner width - Front : 29'', 32h, 30 mm inner width"
+          ],
+          [
+            "Подседельный штырь",
+            "BURGTEC Xpress 31.6 mm, 300 mm length"
+          ],
+          [
+            "Вес по каталогу",
+            "18,8 kgs / 41.44 lbs Average weight for S size, without pedals. Weight may differ slightly due to manufacturing tolerances."
+          ],
+          [
+            "Ход сзади",
+            "220mm"
+          ]
+        ],
+        "geometryNote": "Размер M, Low. Длина и офсет вилки — условия таблицы геометрии. Комплектация установленных компонентов показана отдельно.",
+        "availabilityEvidence": {
+          "available": true,
+          "readyToOrder": true,
+          "messages": [
+            "In stock"
+          ],
+          "inStockDate": null
+        }
+      }
+    ]
+  }
+}
